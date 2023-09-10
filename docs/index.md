@@ -1,6 +1,6 @@
 # sixth-app
 
-Say hello
+Say hello from celebrating 23.2
 
 ## Getting started
 
