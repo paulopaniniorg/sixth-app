@@ -1,0 +1,7 @@
+site_name: sixth-app
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
